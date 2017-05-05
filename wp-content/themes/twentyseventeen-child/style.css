@@ -1,0 +1,14 @@
+/*
+ Theme Name: twentyseventeen-child
+ Description: Child
+ Template: twentyseventeen
+ Version: 1.0.0
+*/
+
+@import url("../twentyseventeen/style.css");
+
+.main-navigation li{
+
+background-color: black;
+
+}
